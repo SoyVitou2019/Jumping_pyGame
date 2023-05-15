@@ -1,2 +1,2 @@
-pygame==23.1.2
+pygame==2.4.0
 pygbag
